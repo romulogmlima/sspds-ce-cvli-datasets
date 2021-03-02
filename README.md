@@ -1,0 +1,3 @@
+### sspds-ce-datasets
+
+Repositório de dados sobre Crimes Violentos Letais Intencionais (CVLI) ocorridos no estado do Ceará. Os *datasets* são originalmente divulgados pela [Secretaria da Segurança Pública e Defesa Social (SSPDS)](https://www.sspds.ce.gov.br/) do Ceará somente no formato PDF. Com o intuito de facilitar a análise desses dados, os arquivos da SSPDS-CE foram convertidos para o formato CSV (*Comma-Separated Value*).
